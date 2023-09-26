@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\monye\\source\\repos\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1.csproj": {}
+    "C:\\Users\\monye\\OneDrive\\Documents\\GitHub\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\monye\\source\\repos\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1.csproj": {
+    "C:\\Users\\monye\\OneDrive\\Documents\\GitHub\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\monye\\source\\repos\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1.csproj",
+        "projectUniqueName": "C:\\Users\\monye\\OneDrive\\Documents\\GitHub\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1.csproj",
         "projectName": "ValidRegistrationPRJ1",
-        "projectPath": "C:\\Users\\monye\\source\\repos\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1.csproj",
+        "projectPath": "C:\\Users\\monye\\OneDrive\\Documents\\GitHub\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1.csproj",
         "packagesPath": "C:\\Users\\monye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\monye\\source\\repos\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1\\obj\\",
+        "outputPath": "C:\\Users\\monye\\OneDrive\\Documents\\GitHub\\ValidRegistrationPRJ1\\ValidRegistrationPRJ1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\monye\\AppData\\Roaming\\NuGet\\NuGet.Config",
